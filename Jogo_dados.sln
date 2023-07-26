@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo_dados.Android", "Jogo_dados\Jogo_dados.Android\Jogo_dados.Android.csproj", "{9E92C2DE-E069-4F99-86C4-C40FFBC5105E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo_dados", "Jogo_dados\Jogo_dados\Jogo_dados.csproj", "{76E37671-B487-491B-AE43-C4E6AFE015FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E92C2DE-E069-4F99-86C4-C40FFBC5105E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E92C2DE-E069-4F99-86C4-C40FFBC5105E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E92C2DE-E069-4F99-86C4-C40FFBC5105E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9E92C2DE-E069-4F99-86C4-C40FFBC5105E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E92C2DE-E069-4F99-86C4-C40FFBC5105E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E92C2DE-E069-4F99-86C4-C40FFBC5105E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{76E37671-B487-491B-AE43-C4E6AFE015FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E37671-B487-491B-AE43-C4E6AFE015FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E37671-B487-491B-AE43-C4E6AFE015FF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{76E37671-B487-491B-AE43-C4E6AFE015FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E37671-B487-491B-AE43-C4E6AFE015FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E37671-B487-491B-AE43-C4E6AFE015FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE63041-56C1-4B1E-B48D-107B6D2445FA}
+	EndGlobalSection
+EndGlobal
